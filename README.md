@@ -1,8 +1,4 @@
-# my_survey
+# Anonymous Survey
 
-A new Flutter project.
+An anonymous survey app build for those who love to get genuine feedback from the user as anonymous user are free to rate without any fear.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
