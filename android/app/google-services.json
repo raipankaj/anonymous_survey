@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "391935873387",
+    "firebase_url": "https://holidays-agent1.firebaseio.com",
+    "project_id": "holidays-agent1",
+    "storage_bucket": "holidays-agent1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391935873387:android:e615f86e8d143522",
+        "android_client_info": {
+          "package_name": "check.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391935873387-bhlv0mbgstqia07gn0cmpgr4kbhbhhin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pYWy75mHmfZywmy9iDT-FBEFRs3_nRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391935873387:android:46b570a74b1d2d02",
+        "android_client_info": {
+          "package_name": "com.example.mysurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391935873387-bhlv0mbgstqia07gn0cmpgr4kbhbhhin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pYWy75mHmfZywmy9iDT-FBEFRs3_nRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391935873387:android:cab7116ca59de519",
+        "android_client_info": {
+          "package_name": "com.sample.mlkitclab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391935873387-bhlv0mbgstqia07gn0cmpgr4kbhbhhin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pYWy75mHmfZywmy9iDT-FBEFRs3_nRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391935873387:android:4af74a817588dcb8",
+        "android_client_info": {
+          "package_name": "sample.com.appmessagingfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391935873387-bhlv0mbgstqia07gn0cmpgr4kbhbhhin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pYWy75mHmfZywmy9iDT-FBEFRs3_nRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
